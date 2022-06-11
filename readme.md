@@ -7,7 +7,7 @@
 
 This is a Sokoban or Push-box game template for the Phaser game framework.
 
-[The code corresponds to a 13 part series on YouTube](https://www.youtube.com/playlist?list=PLumYWZ2t7CRudKWUMB2X9ZavtfpJ-yu7Q) demonstrating how it was made.
+[The code corresponds to a 13 part series on YouTube](https://www.youtube.com/playlist?list=PLNwtXgWIx3rjsa_picz0GY7trBgzUGLVx) demonstrating how it was made.
 
 [Check out the demo here](https://ourcade.co/templates/sokoban-template).
 
