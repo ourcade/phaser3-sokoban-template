@@ -23,7 +23,7 @@
 	},
 	"dependencies": {
 		"jsx-dom": "^6.4.14-beta.3",
-		"phaser": "^3.22.0",
+		"phaser": "^3.55.2",
 		"webfontloader": "^1.6.28"
 	},
 	"parcelCleanPaths": [
